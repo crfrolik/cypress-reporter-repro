@@ -1,0 +1,10 @@
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+cypress/screenshots
+node_modules
+.idea
